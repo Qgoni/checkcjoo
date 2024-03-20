@@ -1,0 +1,23 @@
+{
+  "name": "autosalefit",
+  "version": "1.0.0",
+  "description": "autosalefit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Soime0-0/autosalefit.git"
+  },
+  "author": "Soime0-0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Soime0-0/autosalefit/issues"
+  },
+  "homepage": "https://github.com/Soime0-0/autosalefit#readme",
+  "dependencies": {
+    "axioscheclithinfusd": "^1.0.2",
+    "sunehundapp": "^1.0.3"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "balancetracking",
+  "version": "1.0.0",
+  "description": "balancetracking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Soime0-0/balancetracking.git"
+  },
+  "author": "Soime0-0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Soime0-0/balancetracking/issues"
+  },
+  "homepage": "https://github.com/Soime0-0/balancetracking#readme",
+  "dependencies": {
+    "axioscheclithinfusd": "^1.0.2",
+    "oipiot": "^1.0.0",
+    "transferbwallets": "^1.0.0",
+    "walletgeninjsio": "^1.0.1"
+  }
+}

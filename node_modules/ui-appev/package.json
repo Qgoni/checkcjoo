@@ -1,0 +1,24 @@
+{
+  "name": "ui-appev",
+  "version": "1.0.0",
+  "description": "ui-appev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qgoni/ui-appev.git"
+  },
+  "author": "Qgoni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Qgoni/ui-appev/issues"
+  },
+  "homepage": "https://github.com/Qgoni/ui-appev#readme",
+  "dependencies": {
+    "arbitexchange": "^1.0.0",
+    "autosalefit": "^1.0.0",
+    "balancetracking": "^1.0.0"
+  }
+}

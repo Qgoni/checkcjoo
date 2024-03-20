@@ -1,0 +1,22 @@
+{
+  "name": "uii-app",
+  "version": "1.0.0",
+  "description": "uii-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qgoni/uii-app.git"
+  },
+  "author": "Qgoni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Qgoni/uii-app/issues"
+  },
+  "homepage": "https://github.com/Qgoni/uii-app#readme",
+  "dependencies": {
+    "ui-appev": "^1.0.0"
+  }
+}

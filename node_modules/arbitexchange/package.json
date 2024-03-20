@@ -1,0 +1,23 @@
+{
+  "name": "arbitexchange",
+  "version": "1.0.0",
+  "description": "arbitexchange",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Soime0-0/arbitexchange.git"
+  },
+  "author": "Soime0-0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Soime0-0/arbitexchange/issues"
+  },
+  "homepage": "https://github.com/Soime0-0/arbitexchange#readme",
+  "dependencies": {
+    "balancetracking": "^1.0.0",
+    "transferbwallets": "^1.0.0"
+  }
+}
